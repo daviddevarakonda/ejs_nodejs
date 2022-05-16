@@ -1,0 +1,39 @@
+{
+    "services": {
+        "pages": [
+            {
+                "number": 1,
+                "topic1": "About the Company",
+                "topic1_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_1.png?raw=true",
+                "topic1_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_1.png?raw=true",
+                "topic1_img_alt": "About the Company",
+                "topic2": "Vision and Mission",
+                "topic2_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_2.png?raw=true",
+                "topic2_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_2.png?raw=true",
+                "topic2_img_alt": "Vision and Mission"
+            },
+            {
+                "number": 2,
+                "topic1": "Organization Structure",
+                "topic1_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_3.png?raw=true",
+                "topic1_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_3.png?raw=true",
+                "topic1_img_alt": "Organization Structure",
+                "topic2": "Where Am I?",
+                "topic2_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_4.png?raw=true",
+                "topic2_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_4.png?raw=true",
+                "topic2_img_alt": "Where Am I?"
+            },
+            {
+                "number": 3,
+                "topic1": "Purpose of the handbook",
+                "topic1_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_5.png?raw=true",
+                "topic1_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_5.png?raw=true",
+                "topic1_img_alt": "Purpose of the handbook",
+                "topic2": "Revision",
+                "topic2_url": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_6.png?raw=true",
+                "topic2_img": "https://github.com/daviddevarakonda/flip/blob/main/v1/images/flip_6.png?raw=true",
+                "topic2_img_alt": "Revision"
+            }
+        ]
+    }
+}
